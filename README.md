@@ -12,7 +12,7 @@ I began this Charactor Creator Application as a way to test and demonstrate my p
  I am currently using IntelliJ IDEA with SceneBuilder and DataGrip. The application uses Java 8, a JavaFX GUI, and a SQLite database. Using the latest version of Java allows for lambda expressions and built-in JavaFX libraries, including extensive use of properties, binding, and listeners. JavaFX allows for simpler coding and a much more modern interface compared to Swing; layout is designed in FXML and a custom CSS will be applied after construction. The database and GUI are accessed through dedicated controller classes; JSON or XML will be used to transfer the data beween users.
 
 **Style Notes**  
-I have found that hierarchical abstract classes are more fitting than interfaces for this project, but I constantly abstract/generalize after working out concrete/specific cases (you could say I'm progressing toward a more SOLID GRASP of the material). This comes from the necessity of reverse-engineering the published D&D tables/systems.
+I have found that hierarchical abstract classes are more fitting than interfaces for this project, but I constantly abstract/generalize after working out concrete/specific cases (you could say I'm getting a more SOLID GRASP of the material). This comes from the necessity of reverse-engineering the published D&D tables/systems.
 
 
 Speaking of which:
