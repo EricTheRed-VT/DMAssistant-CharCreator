@@ -119,7 +119,6 @@ public abstract class Creature {
     protected ArrayList<Skill> skills = new ArrayList<>();
 
     public void addSkill(String name, String abil){
-        //Skill newSkill = new Skill(name, this, abil);
         skills.add(new Skill(name, this, abil));
     }
     public void addSkills(String[][] input){
