@@ -2,6 +2,9 @@
 
 Character Creation Application and Associated Classes
 
+**Will be rebuilt using Spring framework, Hibernate, etc. This version is mainly scratch code and has dependency issues.**
+
+
 updated 5/6/2016
 
 Thank you for your interest in this project! It is ongoing and still in pre-alpha development, but feel free to poke through my source code. Please send me any questions, notes, or recommendations.
